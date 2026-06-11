@@ -1,9 +1,8 @@
-Project 2 Documentation EGR 115
+# Cosmic Radiation Limit Analyzer
 
-Cosmic Radiation Limit Analyzer
+Brief description of your project ...
 
-
-Sources:
+### Sources:
 
 https://oxsci.org/the-little-known-risk-of-cosmic-radiation-in-air-travel/#google_vignette
 
